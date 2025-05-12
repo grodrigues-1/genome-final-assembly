@@ -1,0 +1,9 @@
+- "left reads":
+  - "/Users/gracemrodrigues/Desktop/genome-final/spadesoutput/corrected/DRR568552_1.fastq00.0_0.cor.fastq.gz"
+  "number": !!int "1"
+  "orientation": "fr"
+  "right reads":
+  - "/Users/gracemrodrigues/Desktop/genome-final/spadesoutput/corrected/DRR568552_2.fastq00.0_0.cor.fastq.gz"
+  "single reads":
+  - "/Users/gracemrodrigues/Desktop/genome-final/spadesoutput/corrected/DRR568552__unpaired00.0_0.cor.fastq.gz"
+  "type": "paired-end"

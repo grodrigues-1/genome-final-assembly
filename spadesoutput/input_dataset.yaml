@@ -1,0 +1,7 @@
+- "left reads":
+  - "/Users/gracemrodrigues/Desktop/genome-final/DRR568552_1.fastq.gz"
+  "number": !!int "1"
+  "orientation": "fr"
+  "right reads":
+  - "/Users/gracemrodrigues/Desktop/genome-final/DRR568552_2.fastq.gz"
+  "type": "paired-end"

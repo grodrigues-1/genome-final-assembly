@@ -1,0 +1,10 @@
+##gff-version 3
+NODE_103_length_251_cov_43.459770	barrnap:0.9	rRNA	178	250	2.4e-07	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 61 percent of the 5S ribosomal RNA
+NODE_133_length_185_cov_67.092593	barrnap:0.9	rRNA	81	184	2.1e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NODE_152_length_101_cov_340.041667	barrnap:0.9	rRNA	28	100	2.4e-07	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 61 percent of the 5S ribosomal RNA
+NODE_158_length_87_cov_380.600000	barrnap:0.9	rRNA	4	83	4.1e-09	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 67 percent of the 5S ribosomal RNA
+NODE_23_length_5828_cov_40.680056	barrnap:0.9	rRNA	5689	5801	5.9e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NODE_25_length_2935_cov_666.087474	barrnap:0.9	rRNA	12	2902	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NODE_29_length_1579_cov_660.463382	barrnap:0.9	rRNA	48	1557	0	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NODE_40_length_332_cov_69.086275	barrnap:0.9	rRNA	142	253	3e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NODE_7_length_146603_cov_44.657276	barrnap:0.9	rRNA	146499	146602	4.8e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA

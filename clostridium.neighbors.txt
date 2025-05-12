@@ -1,0 +1,1 @@
+spadesoutput/scaffolds.fasta	neighbors/clostridium-c.fasta	87.4194	643	949

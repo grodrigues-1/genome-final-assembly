@@ -1,0 +1,3 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Clostridium cochlearium		strain: NCTC13027	1494	52121_G02	GCA_900187165.1	GenBank	Annotation submitted by SC	Complete Genome	2435419	2435419	2017-08-15	2430	PRJEB6403	SAMEA4530647
+Clostridium cochlearium		strain: NCTC13027	1494	52121_G02	GCF_900187165.1	RefSeq	GCF_900187165.1-RS_2025_04_01	Complete Genome	2435419	2435419	2017-08-15	2448	PRJEB6403	SAMEA4530647
